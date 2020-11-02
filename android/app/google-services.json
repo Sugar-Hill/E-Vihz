@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630217959336",
+    "firebase_url": "https://e-vihz.firebaseio.com",
+    "project_id": "e-vihz",
+    "storage_bucket": "e-vihz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630217959336:android:642768267cb60145685f9d",
+        "android_client_info": {
+          "package_name": "com.vihz.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630217959336-onm7rsqq6h15sp9v45h67enbrm2o82km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtowZp_7AUbUFsbAnyI4W8YJ4WBPYYSeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630217959336-onm7rsqq6h15sp9v45h67enbrm2o82km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
